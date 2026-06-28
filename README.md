@@ -1,6 +1,6 @@
 # First custom PCB - Design, Manufacture with JLCPCB, SMD Assembly
 
-I wanted to get some more practice in the development of custom PCBs from start to finish and a bit of embedded programming. This project outlines the design process of a STM32g030 based 4-digit display. The design itself was kept as simple as possible to avoid reiterations as this was simply for practice. It follows the PCB design process, manufacturing, assembly and finally programming. This was my first experience with using smd components in a project and am excited to continue using them in the future.
+I wanted to get some more practice in the development of custom PCBs from start to finish as well as a bit of embedded programming, so I decided to put together a simple project that will include all of these. This project outlines the design process of an STM32g030 based 4-digit display. The design itself was kept as simple as possible to avoid reiterations as this was simply for practice. It follows the PCB design process, manufacturing, assembly and finally programming. This was my first experience with using smd components and am excited to continue using them in future projects.
 
 ## Board Design in KiCad
 
