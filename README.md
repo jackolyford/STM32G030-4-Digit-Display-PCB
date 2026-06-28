@@ -10,8 +10,14 @@ experience of getting it made and assembled, rather than a fully complete projec
 The board consists of two layers, with component placement all on the top layer.
 ![PCB in KiCad](/Images/PCBKiCad.png)
 
-## Gerber Generation
+## Getting the Boards Manufactured
+
+After running design rule checks, verifying all the footprints matched the physical components (comparing to datasheet and overall pin layout) and checked over everything to make sure nothing major was missed (nearly forgot a programming header), the gerber files were exported and uploaded to JLCPCB. All settings were kept standard and a stencil was also ordered.
+
+![The boards]()
 
 ## Assembly
+
+
 
 ## Improvements
